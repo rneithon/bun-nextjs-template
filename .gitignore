@@ -1,0 +1,13 @@
+node_modules
+.env*
+coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+yarn.lock
+package-lock.json
